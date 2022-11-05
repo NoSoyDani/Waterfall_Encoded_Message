@@ -89,7 +89,7 @@ def phrase_trans_bin(message):
     return letters_m_list
 def CC1101_file(name,message):
     f_name=name+".ino"
-    shutil.copy('templates/template.ino', f_name)
+    shutil.copy('template/template.ino', f_name)
     f = open(f_name,'a')
     for char in message:
         f.write('\n'+"    delay(1000);")
