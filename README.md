@@ -15,7 +15,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ \
 Frequency array. \
 Binary matrix. \
 CC1101 arduino file (Optional): Shows the message in the cascade if a CC1101 based transmitter is used.
-## Hardware 
+## My Hardware 
 CC1101 Module \
 ESP8266 Module 
 
