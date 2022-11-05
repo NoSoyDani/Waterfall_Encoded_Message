@@ -1,5 +1,6 @@
 # Radio Waterfall Encoded Message Using Carrier Variation
 Converts text or graphics represented by square matrix into frequency variations, visible in the radio spectrum (waterfall). The script provides frequency listing and binary listing outputs.
+![Image text](https://github.com/NoSoyDani/Radio_Waterfall_Encoded_Message/blob/main/hello.png)
 ## Supported characters
 ABCDEFGHIJKLMNOPQRSTUVWXYZ \
 0123456789 \
@@ -16,3 +17,5 @@ CC1101 arduino file (Optional): Shows the message in the cascade if a CC1101 bas
 CC1101 Module \
 ESP8266 Module 
 
+
+![Image text](https://github.com/NoSoyDani/Radio_Waterfall_Encoded_Message/blob/main/hardware.jpg)
