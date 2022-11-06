@@ -1,4 +1,4 @@
-# Waterfall Encoded Message Using Frequency Carrier Variation
+# Waterfall Encoded Message Using Carrier Frequency Variation
 Converts text or graphics represented by square matrix into frequency variations, visible in the radio-frequency spectrum (waterfall). The script provides frequency listing and binary listing outputs.
 
 RTL-SDR Receiver:
